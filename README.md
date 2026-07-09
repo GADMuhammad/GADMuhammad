@@ -8,8 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Software+Engineer;Building+modern+web+apps;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🔭 **Currently working on:** [YouTube Tweak] Chrome Extension & Refining "The Wild Oasis" app.
-- 🌱 **Currently learning:** Expanding my expertise into Backend Engineering and System Architecture.
+- 🔭 **Currently working on:** [YouTube Tweak] Chrome Extension.
 - ⚡ **Main Tech Focus:** React, Next.js, Tailwind CSS, and I have a strong preference for **TypeScript**.
 - 🥸 As a Frontend Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 🍋 **Fun Fact:** I'm a lemon enthusiast, and my perfect day would start and end with a glass of lemon juice.
